@@ -1,0 +1,9 @@
+[submodule "INFO147_TAREA01"]
+	path = INFO147_TAREA01
+	url = https://github.com/hiawvp/INFO147_TAREA01.git
+[submodule "INFO147_TAREA02"]
+	path = INFO147_TAREA02
+	url = https://github.com/hiawvp/INFO147_TAREA02.git
+[submodule "INFO147_TAREA03"]
+	path = INFO147_TAREA03
+	url = https://github.com/hiawvp/INFO147_TAREA03.git
